@@ -10,10 +10,10 @@ public class Main {
         double promedio;
         
         // Asignar valores numéricos a cada variable
-        num1 = 34;
-        num2 = 2;
+        num1 = 23;
+        num2 = 12;
         num3 = 24;
-        num4 = 12;
+        num4 = 54;
         num5 = 5;
         
         // Calcular el promedio
