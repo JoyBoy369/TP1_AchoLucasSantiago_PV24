@@ -5,12 +5,7 @@ import java.util.Scanner;
 
 import ar.edu.unju.fi.ejercicio10.model.Pizza;
 
-/**
- * 10. Uso de constructor de clase – métodos - creación de objetos.
- *
- * @author Gutierrez Angel Gonzalo
- * @version 1.0
- */
+
 public class Main {
     static final Scanner scanner = new Scanner(System.in);
 
