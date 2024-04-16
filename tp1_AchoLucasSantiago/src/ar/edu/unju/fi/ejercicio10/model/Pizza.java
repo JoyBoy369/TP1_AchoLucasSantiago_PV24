@@ -1,9 +1,6 @@
 package ar.edu.unju.fi.ejercicio10.model;
 
-/**
- * @author Gutierrez Angel Gonzalo
- * @version 1.0
- */
+
 public class Pizza {
     private final Integer additionalSpecialIngredients20 = 500;
     private final Integer additionalSpecialIngredients30 = 750;
